@@ -36,24 +36,4 @@ A full-stack real-time chat application built with the MERN stack and Socket.io.
 - bcryptjs
 - Cookie Parser
 
-## 📁 Project Structure
 
-Chatapp/
-├── frontend/
-│   └── frontend/
-│       ├── public/
-│       └── src/
-│           ├── components/
-│           ├── hooks/
-│           ├── redux/
-│           ├── App.js
-│           └── index.js
-└── backend/
-└── backend/
-├── config/
-├── controllers/
-├── middleware/
-├── models/
-├── routes/
-├── socket/
-└── index.js
